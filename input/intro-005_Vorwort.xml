@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+    xml:id="intro-006_SCHOECH_Vorwort">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Vorwort</title>
+                <author>
+                    <persName>
+                        <surname>Schöch</surname>
+                        <forename>Christof</forename>
+                    </persName>
+                    <roleName>Vorsitzender des Programmkomitees der DHd2020</roleName>
+                    <email>sahle@uni-koeln.de</email>
+                </author>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2019-02-04T10:30:00Z</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+        <t:publisher xmlns:t="http://www.tei-c.org/ns/1.0">Patrick Sahle, im Auftrag des Verbands Digital Humanities im deutschsprachigen Raum e.V.</t:publisher>
+        <t:address xmlns:t="http://www.tei-c.org/ns/1.0">
+          <t:addrLine>Universität zu Köln</t:addrLine>
+          <t:addrLine>Cologne Center for eHumanities</t:addrLine>
+          <t:addrLine>Albertus-Magnus-Platz</t:addrLine>
+          <t:addrLine>50923 Köln</t:addrLine>
+        </t:address>
+      </publicationStmt>
+            <sourceDesc>
+                <p>Born digital</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Intro</term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term>Vorwort</term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="original" n="keywords">
+                    <term></term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text type="intro" n="single">
+        <body>
+            <div>
+		<p>
+			Vor einem Jahrzehnt versammelten sich die Mitglieder und Unterstützer des Verbands der Digital Humanities im deutschsprachigen Raum erstmals zu ihrer jährlichen Konferenz in Passau. Seitdem wird die Veranstaltung jedes Jahr an wechselnden Orten in Deutschland, im deutschsprachigen Ausland sowie einmalig online abgehalten.
+		</p>
+		<p>
+Anlässlich des Jubiläums thematisiert die diesjährige Tagung, erneut in Passau stattfindend unter dem Motto "DH Quo Vadis", die Zukunft der Digital Humanities. Sie wirft zugleich einen Blick zurück auf die positiven wie negativen Erfahrungen der Vergangenheit, mit dem Ziel, Entwicklungspotenziale zu diskutieren und mögliche Wege für die nächsten zehn Jahre aufzuzeigen.
+		</p>
+		<p>
+Auch dieses Jahr stand das Programmkomitee vor der großen Herausforderung, eine Auswahl unter 190 Einreichungen für Vorträge, Poster, Panels und Workshops zu treffen. Wir danken den Autor:innen für ihre facettenreichen Einblicke in ihre Forschung und den engagierten 170 Kolleg:innen, die sich bereit erklärt haben, bei der Qualitätssicherung für die DHd2024 mitzuwirken. Gemeinsam haben wir beeindruckende 518 Gutachten erstellt. Die Gutachtenden sind ein wesentlicher Bestandteil der DHd-Konferenzen, ohne die die Gestaltung der Tagung unmöglich gewesen wäre. 
+		</p>
+		<p>
+Wir sind überzeugt, dass ein vielfältiges Programm von hoher Qualität entstanden ist, das die Transdisziplinarität und Offenheit unserer Community widerspiegelt. 
+Zur wissenschaftlichen Qualitätssicherung wurde der zweistufige Begutachtungsprozess beibehalten. Wie bereits in den beiden Vorjahren wurde das sogenannte Open-Peer-Review-Verfahren angewandt, bei dem die Namen der Gutachter:innen den Autor:innen offengelegt werden. Für die Zuordnung der Gutachter:innen wurden fachliche Interessen und Expertise berücksichtigt. Auch dieses Jahr gab es eine Erwiderungsphase, die von den Autor:innen breit genutzt wurde. Insgesamt wurden 210 Antworten auf Gutachten verfasst, was bei 71 Beiträgen zu einer Anpassung der vergebenen Punktezahl seitens der Gutachter:innen führte. Obwohl das Verfahren mit zusätzlichem Aufwand verbunden ist, sehen wir darin eine große Chance, das Peer-Review für die DHd so fair und transparent wie möglich zu gestalten ? zum Vorteil aller Beteiligten. Darüber hinaus kann die Community bereits Monate vor dem Treffen in einen Austausch treten, was die wissenschaftliche Diskussion auch während der Konferenz bereichert. So wird das Review-Verfahren zu einem Beitrag zu offenen (Geistes-)wissenschaften, denen wir uns als DH-Community verpflichtet fühlen, wie auch das Konferenzmotto "Open Humanities, Open Science" von 2023 verdeutlichte.
+		</p>
+		<p>
+Der Dialog zwischen Einreichenden und Gutachter:innen trägt nicht nur zur Steigerung der inhaltlichen Qualität der Beiträge und zur Transparenz des Begutachtungsprozesses bei, sondern unterstützt auch das Programmkomitee bei der endgültigen Entscheidungsfindung. Um die Leistung der Gutachter:innen zu würdigen, hat das Programmkomitee - nachdem die ursprünglich verantwortliche Task Force "Optimizing Peer Review" nicht mehr aktiv ist - dieses Jahr zudem die Ehre, den Best Peer Review Award zu verleihen. Wir freuen uns sehr, dass wir mit Lisa Eggert eine junge und engagierte Preisträgerin gefunden haben.
+		</p>
+		<p>
+Wir danken allen Mitglieder des Programmkomitees für ihr Engagement: Anne Baillot, Noah Bubenhofer, Anna Busch, Alexander Czmiel, Lisa Dieckmann, Evelyn Gius, Katrin
+Glinka, Andreas Henrich, Andreas Münzmay, Patrick Sahle, Martina Scholger und Silke Schwandt. Unser Dank gilt auch allen lokalen Mitorganisator:innen in Passau, die die Arbeit des Programmkomitees entscheidend unterstützt haben. Patrick Helling und seinem Team danken wir für die Unterstützung beim Erstellen des Book of Abstracts.
+		</p>
+		<p>
+Wir freuen uns auf eine bereichernde und zukunftsweisende Konferenz.
+
+		</p>
+
+
+                <p>&#160;</p>                
+                <p>&#160;</p>                
+		<dateline>Trier, Belval und Passau, im Februar 2024</dateline><lb/>
+                <signed>Joëlle Weis, Estelle Bunout und Thomas Haider<lb/>für das Programmkomitee und das lokale Organisationsteam der DHd2024</signed>
+              </div>
+        </body>
+    </text>
+</TEI>
+
