@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="HAIDER_Thomas_Nikolaus_Quo_Vadis_Fachbereiche_und_Schulen_de" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Quo Vadis Fachbereiche und Schulen der DHd: Netzwerkanalyse der DHd Abstracts 2014-2023</title>
+                <author>
+                    <persName>
+                        <surname>Haider</surname>
+                        <forename>Thomas Nikolaus</forename>
+                    </persName>
+                    <affiliation>Universität Passau, Deutschland</affiliation>
+                    <email>thomas.haider@uni-passau.de</email>
+                    <idno type="ORCID">0000-0003-1522-4026</idno>
+                </author>
+                <author>
+                    <persName>
+                        <surname>Gassner</surname>
+                        <forename>Sebastian</forename>
+                    </persName>
+                    <affiliation>Universität Passau, Deutschland</affiliation>
+                    <email>sebastian.gassner@uni-passau.de</email>
+                </author>
+                <author>
+                    <persName>
+                        <surname>Rehbein</surname>
+                        <forename>Malte</forename>
+                    </persName>
+                    <affiliation>Universität Passau, Deutschland</affiliation>
+                    <email>malte.rehbein@uni-passau.de</email>
+                    <idno type="ORCID">0000-0002-3252-0604</idno>
+                </author>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2023-12-19T09:18:00Z</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Digital Humanities Passau</publisher>
+                <address>
+                    <addrLine>Universität Passau</addrLine>
+                    <addrLine>Innstraße 41</addrLine>
+                    <addrLine>D-94032 Passau</addrLine>
+                    <addrLine>Deutschland</addrLine>
+                </address>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Converted from a Word document</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <appInfo>
+                <application ident="DHCONVALIDATOR" version="1.22">
+                    <label>DHConvalidator</label>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="ConfTool" n="category">
+                    <term>Paper</term>
+                </keywords>
+                <keywords scheme="ConfTool" n="subcategory">
+                    <term>Posterpräsentation</term>
+                </keywords>
+                <keywords scheme="ConfTool" n="keywords">
+                    <term>DHd</term>
+                    <term>Abstracts</term>
+                    <term>Netzwerkanalyse</term>
+                </keywords>
+                <keywords scheme="ConfTool" n="topics">
+                    <term>Strukturanalyse</term>
+                    <term>Netzwerkanalyse</term>
+                    <term>Forschung</term>
+                    <term>Forschungsprozess</term>
+                    <term>Visualisierung</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="div1" rend="DH-Heading1">
+                <head>Einleitung</head>
+          
+                <p>
+                    <hi style="font-size:11pt" xml:space="preserve">Die Digital Humanities (DH) sind ein wachsendes Forschungsfeld (Tang et al., 2017), und nach 10 Jahren DHd fragt die Konferenz in Passau 2024 nach ‚Quo Vadis DH?‘. Wir möchten mit diesem Beitrag einen Überblick der Fächerlandschaft und des Zitierverhaltens der deutschsprachigen DH Community gewinnen. Dies verfolgen wir mit Methoden der Netzwerkanalyse, wobei wir uns insbesondere Ko-Keywords, Ko-Autorschaft, und Ko-Zitation ansehen. Zum Zitierverhalten werfen wir außerdem einen Blick auf die Länge der Bibliographien und das Alter der Zitationen. </hi>
+                </p>
+                <p>
+                    <hi style="font-size:11pt">Während bestehende bibliometrische Studien sich mit verwandten Bereichen wie der Computerlinguistik (Bollmann &amp; Elliot, 2020), dem Management (Wieczorek et al., 2021) und den Digital Humanities international (Tang et al., 2017) sowie mit spezifischen Analysen einzelner DHd-Konferenzen (Henny-Kramer &amp; Sahle, 2018; Hoenen, 2019) beschäftigt haben, fehlt ein umfassender Überblick der Zitationslandschaft der DHd-Konferenz. Diese Lücke motiviert unsere Studie, mit dem Ziel eine Bewertung und einen Einblick in die Zitationsdynamik innerhalb dieses wissenschaftlichen Forums zu geben.</hi>
+                </p>
+                <p>
+                    <hi style="font-size:11pt">Wir verfolgen folgende Analysen:</hi>
+                </p>
+                <p>
+                    <hi style="font-size:11pt">Ko-Keywords: Durch das Extrahieren und Analysieren von Keywords aus wissenschaftlichen Arbeiten können wir wiederkehrende Themen, gemeinsame Begriffe und Gruppen von verwandten Problemen identifizieren. Die Beziehungen zwischen Keywords sollten Einblicke in die Teilgebiete der DH bieten.</hi>
+                </p>
+                <p>
+                    <hi style="font-size:11pt">Ko-Autorschaft: Die Zusammenarbeit ist das Herzstück des wissenschaftlichen Fortschritts, und Koautorenschaftsnetzwerke sind ein Instrument zur Untersuchung der Interaktionen zwischen Forscher:innen. Die Analyse von Koautorenschaftsmustern kann helfen, einflussreiche Forschungsgruppen, intellektuelle Zentren und Communities mit gemeinsamen Forschungsinteressen zu identifizieren. Die Aufdeckung dieser Netzwerke ermöglicht es uns, unterschiedliche Denkrichtungen, ihre geografische Verteilung und möglicherweise ihren Einfluss auf den wissenschaftlichen Fortschritt zu ermitteln.</hi>
+                </p>
+                <p>
+                    <hi style="font-size:11pt">Zitierverhalten und Ko-Zitation: In wissenschaftlichen Arbeiten werden typischerweise frühere Arbeiten zitiert, um die intellektuelle Abstammung von Ideen zu belegen und grundlegende Beiträge zu würdigen. Durch die Erstellung von Kozitationsnetzwerken können wir etwa einflussreiche Arbeiten aufspüren und nachverfolgen, und Einsicht in die Verbindungen zwischen verschiedenen Sub-Disziplinen bekommen.</hi>
+                </p>
+            </div>
+            <div type="div1" rend="DH-Heading1">
+                <head>Korpus</head>
+                <p>
+                    <hi style="font-size:11pt">Als Hauptkorpus verwenden wir die DHd Abstracts von 2016 bis 2023, welche komplett in TEI XML vorliegen (</hi>
+                    <ref target="https://github.com/DHd-Verband">
+                        <hi rend="color(386FE5)" style="font-size:11pt">https://github.com/DHd-Verband</hi>
+                    </ref>
+                    <hi style="font-size:11pt">). Die Volltexte der Jahrgänge 2014 und 2015 liegen nur in .pdf vor. Die Information zu Keywords und Bibliographie ist in diesen frühen Jahrgängen inkonsistent und wird daher nicht verwendet. Allerdings verwenden wir für Ko-Autorschaft die Überblicks-XML (die alle Beiträge der jeweiligen Jahrgänge 2014 und 2015 vereint).</hi>
+                </p>
+            </div>
+            <div type="div1" rend="DH-Heading1">
+                <head>Methodik</head>
+  
+                <p>
+                    <hi style="font-size:11pt">Die Hauptaspekte dieses Papiers (Ko-Keywords, Ko-Autorschaft, Ko-Zitation) modellieren wir mit Netzwerkanalyse. Die Analysen bewegen sich auf Dokument-Ebene: Pro DHd-Abstract verwenden wir eine Liste mit Keywords, eine Liste mit Autor:innen, und eine Liste mit Literaturreferenzen. </hi>
+                </p>
+                <p>
+                    <hi style="font-size:11pt">Die Größe der Knoten ist durchgängig durch Betweenness Centrality bestimmt (wie wichtig ist ein Knoten für das gesamte Netzwerk), und die Kantenstärke ist durch die absolute Frequenz des gemeinsamen Vorkommens von zwei Knoten bestimmt (zum Beispiel zeigt eine Kante im Ko-Autorschaftsnetzwerk an wie oft zwei Autor:innen auf der DHd zusammen publiziert haben).</hi>
+                </p>
+                <p>
+                    <hi style="font-size:11pt">Für das Layout der Netzwerke verwenden wir Force Atlas 2, und die (Cluster)farben werden durch Modularity bestimmt.</hi>
+                </p>
+            </div>
+            <div type="div1" rend="DH-Heading1">
+                <head>Netzwerke</head>
+                <div type="div2" rend="DH-Heading2">
+                    <head>Keywords-Netzwerk</head>
+                    <figure>
+                        <graphic n="1001" width="16.002cm" height="17.79763888888889cm" url="Pictures/7501e783ce706a458425524ba7079aa4.png" rend="inline"/>
+                        <head>Abbildung 1: Ko-Keywords Netzwerk</head>
+                    </figure>
+                    <p>
+                        <hi style="font-size:11pt">Abildung 1 zeigt das Ko-Keywords Netzwerk. Die DHd-Abstracts verfügen über zwei separate Keyword Auszeichnungen, sog. `Keywords‘ und `Topics‘. Es zeigt sich, dass die `Keywords‘ eher sparse sind (da diese durch ein Freifeld eingegeben werden), und die `Topics‘ sehr dicht sind. Daher zeigen die Netzwerke der einzelnen Felder wenig aufschlussreiches. Wenn allerdings beide Annotationen auf Dokumentebene zusammengeführt werden, so zeigt sich, dass die Topics durch die Keywords sinnvoll miteinander verbunden werden. Der Übersicht halber wurden seltene Keywords gefiltert.</hi>
+                    </p>
+                    <p>
+                        <hi style="font-size:11pt">Wir finden einige Cluster: Rechts unten die Annotation von Text, insbesondere für die Inhalts- und Stilanalyse in der Literaturwissenschaft, mittig Modellierung und Visualisierung, dazu Methoden und Metadaten. Zwischen den ersten beiden Clustern die Bildwissenschaft. Mittig und Oben finden sich Daten, deren Sammlung, Veröffentlichung, und Archivierung. Oben die Forschung selbst, mit der dazugehörigen Community, Infrastruktur und Lehre.</hi>
+                    </p>
+                </div>
+                <div type="div2" rend="DH-Heading2">
+                    <head>Ko-Autorschaft Netzwerk</head>
+                    <p>
+                        <hi style="font-size:11pt">In Abbildung 2, dem Ko-Autorschafts-Netzwerk zeigen sich einige regionale Zentren. In grün mittig links die Verbindung Potsdam-Berlin (Trilcke, Fischer). Rechts in türkis Graz. In orange und grün links und zentral Stuttgart-Darmstadt-Hamburg. Links oben Würzburg-Trier (Jannidis, Schöch). Oben in blau Leipzig-Regensburg (Burghardt). Zentral hellgrün findet sich ein dichtes Feld mit gemischten Affiliationen, darunter einige Kölner Namen.</hi>
+                    </p>
+                    <figure>
+                        <graphic n="1002" width="15.980833333333333cm" height="13.282083333333333cm" url="Pictures/3cdc0f3dded24e502e354a39c11bfb16.png" rend="inline"/>
+                        <head>Abbildung 2: Ko-Autorschaft Netzwerk</head>
+                    </figure>
+                    <p style="text-align: justify;"> </p>
+                </div>
+                <div type="div2" rend="DH-Heading2">
+                    <head>Zitierverhalten &amp; Ko-Zitation</head>
+                    <p>
+                        <hi style="font-size:11pt" xml:space="preserve">Das Parsing von Referenzen/Zitationen fokusiert auf first-level Referenzen (also auf Artikel-Ebene, und nicht z.B. in welchem Sammelband etwas erschienen ist). Im Folgenden (Tabelle 1) sind die 20 am häufigsten zitierten Arbeiten aufgeführt. Darunter finden sich unter den Hauptautor:innen drei Frauen, Johanna Drucker, Birgit Hamp, und Verena Henrich.  Die Themenwahl reicht von den FAIR Principles über Topic Modelling/Embeddings und Distant Reading über Editionswissenschaft und Korpora bis in die Bildwissenschaft. Es zeigt sich ein ähnliches Bild wie bei der Keywordanalyse. </hi>
+                    </p>
+                    <figure>
+                        <graphic n="1003" width="13.255625cm" height="13.864166666666666cm" url="Pictures/51f79ea494b80b9c4062580ae81feccd.png" rend="inline"/>
+                        <head>Tabelle 1: Top 20 am häufigsten zitierte Arbeiten</head>
+                    </figure>
+    
+                    <p>
+                        <hi rend="color(3F4350)" style="font-size:11pt">Um zu untersuchen wie die Bibliographien beschaffen sind, untersuchen wir deren Länge und das Alter der Referenzen, wie von Bollmann und Elliot (2020) für die ACL gezeigt, um zu untersuchen ob ältere Publikationen `vergessen‘ werden. Es folgen zwei ‚letter value‘ plots, die die Länge der Bibliographie der Abstracts und das Alter der Referenzen zeigen.</hi>
+                        <hi rend="color(3F4350)" style="font-family:Open Sans;font-size:10pt"> </hi>
+                    </p>
+                    <figure>
+                        <graphic n="1004" width="12.779375cm" height="9.604375cm" url="Pictures/e8192b80c78832126793ffa11d5bddb6.png" rend="inline"/>
+                        <head>Abbildung 3: Letter Value Plot für Länge der Bibliographien</head>
+                    </figure>
+                    <p style="text-align: justify;"> </p>
+                    <figure>
+                        <graphic n="1005" width="12.832291666666666cm" height="9.630833333333333cm" url="Pictures/fef263be7c68d9b39c59210772cadfda.png" rend="inline"/>
+                        <head>Abbildung 4: Letter Value Plot für Alter der Referenzen</head>
+                    </figure>
+                    <p>
+                        <hi rend="color(3F4350)" style="font-size:11pt">Ingesamt ist zu sagen, dass die Bibliographien über die Jahre immer länger geworden sind (Median 7 bis Median 13), was für die Wissenschaftlichkeit und die Anerkennung des Fachs sicherlich fördernd ist. Zu Abbildung 4: Im Median sind Referenzen vier oder fünf Jahre alt, wenn sie zitiert werden. Es werden auch sehr alte Arbeiten zitiert, aber hier wurde erst ab 1900 berücksichtigt um etwaige Parsingerror zu minimieren. Das arithmetische Mittel scheint die letzten Jahre etwas zu fallen, was darauf hinweisen könnte, dass weniger alte Arbeiten zitiert werden.</hi>
+                    </p>
+                    <p>  </p>
+                    <figure>
+                        <graphic n="1006" width="16.002cm" height="12.326055555555556cm" url="Pictures/bb0e50c1bd7ed36f1c4c21b259bf3679.png" rend="inline"/>
+                        <head>Abbildung 5: Ko-Zitationsnetzwerk</head>
+                    </figure>
+                    <p>
+                        <hi rend="color(3F4350)" style="font-size:11pt" xml:space="preserve">Abbildung 5 zeigt das Ko-Zitationsnetzwerk. Eine Kante wird gebildet, wenn zwei Referenzen zusammen in einer Bibliographie auftauchen, und das Gewicht der Kante bestimmt in wievielen Abstracts dies der Fall ist. Wir sehen wieder ein gewohntes Bild: Oben beginnt das Netzwerk mit Sentiment Analysis und Transformer Modellen los und bewegt sich dann über Computational Literary Studies (mit z.B. Netzwerkanalyse für Dramen) über Topic Analyse (Latent Dirichlet Allocation) und Distant Reading hin zu Forschungsdatenmanagement (FAIR) bis zur Editionswissenschaft. </hi>
+                    </p>
+                </div>
+            </div>
+            <div type="div1" rend="DH-Heading1">
+                <head>Zusammenfassung</head>
+                <p>
+                    <hi rend="color(3F4350)" style="font-size:11pt">Wir zeigen auf diesem Poster einen Querschnitt der Themen (Ko-Keywords), der Ko-Autorschaft und das Zitierverhalten der DHd Community. In Zukunft wollen wir einzelne Variablen miteinander verbinden (etwa wer für welche Keywords zitiert wird).</hi>
+                </p>
+            </div>
+        </body>
+        <back>
+            <div type="bibliogr">
+                <listBibl>
+                    <head>Bibliographie</head>
+                    <bibl style="text-align: left;">
+                        <hi rend="bold" style="font-size:10pt">Bollmann, Marcel, and Desmond Elliott.</hi>
+                        <hi style="font-size:10pt"> 2020. "On forgetting to cite older papers: An analysis of the acl anthology." In </hi>
+                        <hi rend="italic " style="font-size:10pt">Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics</hi>
+                        <hi style="font-size:10pt">, pp. 7819-7827. 2020.</hi>
+                    </bibl>
+                    <bibl>
+                        <hi rend="bold" style="font-size:10pt">Henny-Krahmer, Ulrike und Patrick Sahle.</hi>
+                        <hi style="font-size:10pt"> 2018. “Einreichungen zur DHd 2018.” Zugriff 19. Juli 2023. https://dhd-blog.org/?p=9001.</hi>
+                    </bibl>
+                    <bibl>
+                        <hi rend="bold" style="font-size:10pt">Hoenen, Armin.</hi>
+                        <hi style="font-size:10pt" xml:space="preserve"> 2019. “Einreichungen zur DHd 2019 - II.” Zugriff 19. Juli 2023.  </hi>
+                        <ref target="https://dhd-blog.org/?p=11418">
+                            <hi rend="color(1155CC)" style="font-size:10pt">https://dhd-blog.org/?p=11418</hi>
+                        </ref>
+                        <hi style="font-size:10pt">.</hi>
+                    </bibl>
+                    <bibl>
+                        <hi rend="bold" style="font-size:10pt">Tang, Muh-Chyun, Yun Jen Cheng, and Kuang Hua Chen.</hi>
+                        <hi style="font-size:10pt"> 2017. "A longitudinal study of intellectual cohesion in digital humanities using bibliometric analyses." </hi>
+                        <hi rend="italic color(222222)" style="font-size:10pt">Scientometrics</hi>
+                        <hi style="font-size:10pt"> 113 (2017): 985-1008.</hi>
+                    </bibl>
+                    <bibl>
+                        <hi rend="bold" style="font-size:10pt">Wieczorek, Oliver, Markus Eckl, Madeleine Bausch, Erik Radisch, Christoph Barmeyer, and Malte Rehbein.</hi>
+                        <hi style="font-size:10pt"> 2021. "Better, Faster, Stronger: The Evolution of Co-authorship in International Management Research Between 1990 and 2016." </hi>
+                        <hi rend="italic" style="font-size:10pt">Sage open</hi>
+                        <hi style="font-size:10pt"> 11, no. 4 (2021): 21582440211061561.</hi>
+                    </bibl>
+                </listBibl>
+            </div>
+        </back>
+    </text>
+</TEI>
