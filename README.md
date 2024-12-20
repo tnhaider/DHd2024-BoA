@@ -1,19 +1,21 @@
-# DHd2024-BoA
+#DHd2024-BoA
 This repository contains the set of scripts that will take TEI encoded XML files and process them into a PDF.
-Furthermore, it contains the files used to prepare the Book of Abstracts of the DHd 2020 conference. Please be aware that the texts are under the standard copyright of the authors, if not stated explicitly otherwise.
+Furthermore, it contains the files used to prepare the Book of Abstracts of the DHd 2024 conference. Please be aware that the texts are under the standard copyright of the authors, if not stated explicitly otherwise.
 
 The following steps explain how to generate the Book of
 Abstracts. They are based on
 [Karin Dalziels introduction](https://github.com/karindalziel/TEI-to-PDF)
 but with some modifications to reflect the changes in the code over
 the years. 
+This code was taken from DHd2020 and modified.
 
-#### Code was tested on MacBook Pro running macOS 10.14.6 with 16GB of memory.
+#### Code was previously tested on MacBook Pro running macOS 10.14.6 with 16GB of memory.
+#### Code was recently running on a HPC with CentOS Linux.
 
 Step 0: Check out or download files from github
 ===============================================
 
-You'll get a folder with the name "DHd2020-BoA". All other
+You'll get a folder with the name "DHd2024-BoA". All other
 instructions refer to this folder as the root folder.
 
 Step 1: Set up your environment
@@ -21,6 +23,7 @@ Step 1: Set up your environment
 
 1a: Download Saxon
 -------------------------
+Note: These libraries are already included in this commit.
 
 Download Saxon HE from
 [The Saxon Sourceforge page](http://saxon.sourceforge.net/) and place
